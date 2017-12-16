@@ -1,0 +1,35 @@
+{
+    "Categories": 
+        [
+            {
+                "name": "Christmas Background"
+            },
+          {
+                "name": "Christmas Wallpapers"
+            },
+            {
+                "name": "Santa"
+            },
+            {
+                "name": "Christmas Wishes"
+            }
+        ],
+    
+	"Wallpapers":
+        [
+			{
+				"author": "Christmas Wallpaper & Backgrounds",
+				"url": "",
+				"thumbUrl": "",
+				"name": "",
+                "category": "christmas background,christmas wallpapers"
+			},
+            {
+                "author":"Christmas Wishes",
+                "url": "",
+                "thumbUrl": "",
+                "name": "",
+                "category": "christmas wishes"
+            }
+		]
+}
